@@ -1,16 +1,3 @@
-# 👨‍💻 Juan Antonio Reyes Gómez
-
-**Ingeniero en Desarrollo y Gestión de Software**  
-Saltillo, Coahuila, México
-
----
-
-## 📞 Contacto
-
-- **Teléfono:** +52 844 233 9039  
-- **Correo:** [jutanes2002@gmail.com](mailto:jutanes2002@gmail.com)  
-
----
 
 ## 📊 GitHub Analytics
 
