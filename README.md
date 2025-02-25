@@ -12,16 +12,6 @@ Saltillo, Coahuila, México
 
 ---
 
-## 🎓 Formación Académica
-
-### Ingeniería en Desarrollo y Gestión de Software  
-**Universidad Tecnológica de Coahuila** (2024 - Actualmente)
-
-### Técnico Superior Universitario en Desarrollo de Software Multiplataforma  
-**Universidad Tecnología de Coahuila** (2021 - 2023)
-
----
-
 ## 🛠️ Habilidades y Conocimientos
 
 ### Habilidades Técnicas
