@@ -12,17 +12,6 @@ Saltillo, Coahuila, México
 
 ---
 
-## 🛠️ Habilidades y Conocimientos
-
-### Habilidades Técnicas
-- **Lenguajes de Programación:** PHP, JavaScript, Python  
-- **Desarrollo Web:** HTML5, CSS3, Laravel  
-- **Bases de Datos:** MySQL, NoSQL (MongoDB)  
-- **Herramientas:** Git, GitHub, Photoshop, Illustrator  
-- **Otros:** Ensamblaje y mantenimiento de computadoras
-
----
-
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jutanes2002&show_icons=true&hide_title=true&count_private=true&theme=radical)
